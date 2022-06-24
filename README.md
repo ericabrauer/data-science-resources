@@ -30,4 +30,14 @@ Visualization/Exploratory Analysis
 - http://www.stephen-few.com/nysi.php
 - https://www.edwardtufte.com/tufte/
 
+Communities
+- Discord
+    - Data Engineering
+    - scikit-learn
+    - Artificial Intelligence Community
+    - Data Science
+    - /r/LearnMachineLearning
+- Slack
+    - og-aws   
+
 * Not yet verified by the originator of this repo
